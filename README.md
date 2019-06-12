@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Circle Click Game
 
-You can use the [editor on GitHub](https://github.com/ronniegeraghty/CircleClickGame/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A game where you have to click the circles before they turn red.
 
 ### Markdown
 
